@@ -33,5 +33,6 @@ __all__ = [
     'uptime',
     'python',
     'tftp',
-    'nc'
+    'nc',
+    'dd' 
     ]
